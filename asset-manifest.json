@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miniproject/static/css/main.d73cef41.css",
+    "main.js": "/miniproject/static/js/main.5f0db07c.js",
+    "static/js/453.5a0d782f.chunk.js": "/miniproject/static/js/453.5a0d782f.chunk.js",
+    "static/media/loggedinBanner.png": "/miniproject/static/media/loggedinBanner.53b882c212f5d2873e4d.png",
+    "static/media/Group 21.png": "/miniproject/static/media/Group 21.37425b6a2f7e99698cdd.png",
+    "static/media/earth.png": "/miniproject/static/media/earth.c76b2a94752298b34dd6.png",
+    "static/media/helpImg.png": "/miniproject/static/media/helpImg.a85cf1196dc270fb7965.png",
+    "static/media/loginImg.png": "/miniproject/static/media/loginImg.685edb758138e997f082.png",
+    "static/media/banner-img.png": "/miniproject/static/media/banner-img.2965962bd069fe615bed.png",
+    "static/media/Group 37.png": "/miniproject/static/media/Group 37.5d4bf8924898ff92e07e.png",
+    "index.html": "/miniproject/index.html",
+    "main.d73cef41.css.map": "/miniproject/static/css/main.d73cef41.css.map",
+    "main.5f0db07c.js.map": "/miniproject/static/js/main.5f0db07c.js.map",
+    "453.5a0d782f.chunk.js.map": "/miniproject/static/js/453.5a0d782f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73cef41.css",
+    "static/js/main.5f0db07c.js"
+  ]
+}
